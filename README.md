@@ -9,3 +9,11 @@ Sorting Visualizer written in C++ using the SDL2 library. The program generates 
 5. Merge Sort               θ(n log(n))
 6. Heap Sort                θ(n log(n))
 
+**Heap Sort**
+![](heapsort.gif)
+
+**Merge Sort**
+![](mergesort.gif)
+
+**Bubble Sort**
+![](bubblesort.gif)
